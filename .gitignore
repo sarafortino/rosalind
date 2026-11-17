@@ -1,0 +1,9 @@
+# Datasets downloaded from Rosalind and generated answers
+rosalind_*.txt
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+
+# macOS
+.DS_Store
